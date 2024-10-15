@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello. I'm Liz, and in November 2024 I'll be starting at the School of Code.
 
 <!--
 **lizwade/lizwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
