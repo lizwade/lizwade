@@ -1,6 +1,6 @@
 ## Hello. I'm Liz, a Software Developer in-training at the School of Code.
 
-Have a look at my [#100daysofcode log](https://github.com/lizwade/100-days-of-code/blob/master/log.md) to see how I"m doing.
+Have a look at my [#100daysofcode log](https://github.com/lizwade/100-days-of-code/blob/master/log.md) to see how I'm doing.
 
 <!--
 **lizwade/lizwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
